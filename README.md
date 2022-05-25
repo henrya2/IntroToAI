@@ -1,0 +1,1 @@
+Programming assignments for introduction to artificial intelligence.
